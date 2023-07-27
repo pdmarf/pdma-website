@@ -80,6 +80,10 @@ input, select, textarea {
 	appearance: none;
 }
 
+@media screen and (max-width: 736px) {
+	.inner .logo img {max-width: 100%;}
+
+}
 
 
 /* Basic */
