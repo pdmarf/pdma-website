@@ -173,11 +173,7 @@ input, select, textarea {
 
 		}
 
-		@media screen and (min-width: 980px) {
-			.inner img {
-				max-width: 60%!important;
-			}
-		}
+		
 
 		@media screen and (max-width: 736px) {
 
@@ -193,6 +189,11 @@ input, select, textarea {
 			img, .inner img  {max-width: 60%;
    				display: flex;
 				margin: auto;
+				}
+			}
+			@media screen and (max-width: 980px) {
+				.inner img {
+					max-width: 50%;
 				}
 			}
 
