@@ -164,7 +164,7 @@ input, select, textarea {
 		-ms-transition: color 0.2s ease, border-bottom-color 0.2s ease;
 		transition: color 0.2s ease, border-bottom-color 0.2s ease;
 		color: inherit;
-		margin-bottom: 1rem;
+		text-underline-offset: 2.5px;
 		
 	}
 
@@ -172,7 +172,7 @@ input, select, textarea {
 			border-bottom-color: transparent;
 			text-decoration: underline;
 			text-underline-offset: 2.5px;
-			color: #8d8d8d;
+			color: #1caccf;
 			
 		}
 
