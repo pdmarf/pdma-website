@@ -3797,7 +3797,7 @@ body {
 				-ms-transition-delay: 0.25s;
 				transition-delay: 0.25s;
 				background: 
-				#228ea6;
+				#85bfd4;
 				content: '';
 				display: block;
 				height: 2px;
@@ -4002,10 +4002,10 @@ body {
 
 	#main > header {
 		padding: 2em 0 2em 0 ;
-		background-image: -moz-linear-gradient(top, #062e39, #218ea6), url("../../images/banner.jpg");
-		background-image: -webkit-linear-gradient(top, #062e39, #218ea6), url("../../images/banner.jpg");
-		background-image: -ms-linear-gradient(top,top, #062e39, #218ea6), url("../../images/banner.jpg");
-		background-image: linear-gradient(top,#062e39, #218ea6), url("../../images/banner.jpg");
+		background-image: -moz-linear-gradient(top, #1f6578, #59e1ff), url("../../images/banner.jpg");
+		background-image: -webkit-linear-gradient(top, #1f6578, #59e1ff), url("../../images/banner.jpg");
+		background-image: -ms-linear-gradient(top, #1f6578, #59e1ff), url("../../images/banner.jpg");
+		background-image: linear-gradient(top, #1f6578, #59e1ff), url("../../images/banner.jpg");
 		background-attachment: fixed;
 		background-position: center center;
 		background-repeat: no-repeat;
