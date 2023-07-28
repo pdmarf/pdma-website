@@ -191,6 +191,13 @@ input, select, textarea {
 				margin: auto;
 				}
 			}
+
+			@media screen and (max-width: 1680px) {
+			.inner img {max-width: 50%!important;
+					
+				}
+	
+			}
 			
 			
 	a {
