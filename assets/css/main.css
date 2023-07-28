@@ -30,6 +30,7 @@
     border-color: hsla(180,51.4%,51.6%,1)!important;
     color: #ffffff!important;
     transition-delay: .3s!important;
+}
 
 #CookiebotWidget .CookiebotWidget-consent-details button {
 		color: hsla(180,51.4%,51.6%,1)!important;
