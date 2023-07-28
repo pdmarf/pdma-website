@@ -165,13 +165,14 @@ input, select, textarea {
 		transition: color 0.2s ease, border-bottom-color 0.2s ease;
 		color: inherit;
 		margin-bottom: 1rem;
-		color: #306D9E !important;
-		text-decoration: underline;
-		text-underline-offset: 2.5px;
+		
 	}
 
 		a:hover {
 			border-bottom-color: transparent;
+			text-decoration: underline;
+			text-underline-offset: 2.5px;
+			color: #8d8d8d;
 			
 		}
 
