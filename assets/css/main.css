@@ -9,6 +9,14 @@
 /*site wide*/
 
 
+.flex-parent {
+	display: flex;
+  }
+  
+  .jc-center {
+	justify-content: center;
+  }
+
 .image-link {
   text-decoration: none; 
 }
