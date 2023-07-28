@@ -120,7 +120,10 @@ input, select, textarea {
 
 
 /* Basic */
-
+@media screen and (max-width: 1900px) {
+	.inner img {max-width: 50%;	
+		}
+	}
 	@-ms-viewport {
 		width: device-width;
 	}
@@ -190,13 +193,6 @@ input, select, textarea {
    				display: flex;
 				margin: auto;
 				}
-			}
-
-			@media screen and (max-width: 1680px) {
-			.inner img {max-width: 50%;
-					
-				}
-	
 			}
 			
 			
