@@ -191,14 +191,17 @@ input, select, textarea {
 				margin: auto;
 				}
 			}*/
-		@media screen and (max-width: 1280px)
+		@media screen and (max-width: 1280px){
 			.inner img {
 				max-width: 50%!important;
 			}
-		@media screen and (max-width: 736px)
+		}
+		@media screen and (max-width: 736px){
 		.inner img {
     		max-width: 100%!important;
 			}
+		}
+
 			
 			
 	a {
