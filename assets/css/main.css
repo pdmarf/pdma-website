@@ -14,7 +14,10 @@
 }
 
 #CookiebotWidget .CookiebotWidget-logo svg circle {
-    fill: hsl(180, 62%, 30%)!important;
+    fill: #5acfcf!important;
+}
+#CookiebotWidget button, #CookiebotWidget li, #CookiebotWidget strong, #CookiebotWidget svg, #CookiebotWidget ul {
+	box-shadow: none!important;
 }
 
 
