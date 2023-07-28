@@ -4168,13 +4168,7 @@ body {
 	}
 
 	body.is-mobile.landing #page-wrapper {
-		background-image: -moz-linear-gradient(top, #0b202d, #59e1ff), url("../../images/banner.jpg");
-		background-image: -webkit-linear-gradient(top, #0b202d, #59e1ff), url("../../images/banner.jpg");
-		background-image: -ms-linear-gradient(top, #0b202d, #59e1ff), url("../../images/banner.jpg");
-		background-image: linear-gradient(top, #0b202d, #59e1ff), url("../../images/banner.jpg");
-		background-position: center center;
-		background-repeat: no-repeat;
-		background-size: cover;
+		background: none;
 	}
 
 	body.is-mobile.landing #banner,
