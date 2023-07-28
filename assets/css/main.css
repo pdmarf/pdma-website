@@ -173,11 +173,7 @@ input, select, textarea {
 
 		}
 
-		@media screen and (max-width: 980px) {
-			.inner img {
-				max-width: 60%!important;
-			}
-		}
+		
 
 		@media screen and (max-width: 736px) {
 
@@ -190,7 +186,7 @@ input, select, textarea {
 		
 		/*PM sets image size and centers it when on tablet*/
 		@media screen and (max-width: 980px) {
-			img {max-width: 60%;
+			img, .inner img  {max-width: 60%;
    				display: flex;
 				margin: auto;
 				}
