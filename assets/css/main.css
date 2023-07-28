@@ -10,11 +10,11 @@
 
 
 .image-link {
-  text-decoration: none;
+  text-decoration: none; 
 }
 
 #CookiebotWidget .CookiebotWidget-logo svg circle {
-    color: hsl(180deg 65.6% 29.81%)!important;
+    fill: hsl(180, 62%, 30%)!important;
 }
 
 
