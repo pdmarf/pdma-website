@@ -2927,7 +2927,6 @@ body {
 			-webkit-order: 2;
 			-ms-order: 2;
 			order: 2;
-			max-width: 48em;
 			width: 100%;
 		}
 
