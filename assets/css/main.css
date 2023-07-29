@@ -2931,6 +2931,11 @@ body {
 			width: 60%;
 		}
 
+		.video {
+			aspect-ratio: 16 / 9;
+			width: 100%;
+		  }
+
 		.spotlight:nth-child(2n) {
 			-moz-flex-direction: row-reverse;
 			-webkit-flex-direction: row-reverse;
