@@ -21,6 +21,10 @@
   text-decoration: none; 
 }
 
+#CookiebotWidget:not(.CookiebotWidget-open) button.CookiebotWidget-logo svg {
+    height: 30px!important;
+	width:30px!important;
+}
 #CookiebotWidget .CookiebotWidget-logo svg circle {
     fill: #5acfcf!important;
 }
