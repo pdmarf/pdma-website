@@ -50,8 +50,9 @@
 #CybotCookiebotDialogFooter .CybotCookiebotDialogBodyButton {
     border: 2px solid hsla(180,51.4%,51.6%,1)!important;
     color: hsla(180,51.4%,51.6%,1)!important;
-    user-select: none!important;
+    padding: 0em!important;
 }
+
 
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
