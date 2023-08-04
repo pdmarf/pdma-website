@@ -28,7 +28,7 @@
 #CookiebotWidget .CookiebotWidget-logo svg circle {
     fill: #5acfcf!important;
 }
-#CookiebotWidget button, #CookiebotWidget li, #CookiebotWidget strong, #CookiebotWidget svg, #CookiebotWidget ul {
+#CookiebotWidget, #CookiebotWidget button, #CookiebotWidget li, #CookiebotWidget strong, #CookiebotWidget svg, #CookiebotWidget ul {
 	box-shadow: none!important;
 }
 #CookiebotWidget #CookiebotWidget-buttons #CookiebotWidget-btn-change {
