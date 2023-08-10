@@ -3380,8 +3380,8 @@ body {
 			.wrapper.style3 .button {
 				box-shadow: inset 0 0 0 2px rgb(255, 255, 255);
 				color: #ffffff;
-				margin-bottom: 5em;
-    			font-size: 15px;
+				margin-bottom: 10em;
+    			font-size: 13px;
 			}
 
 				.wrapper.style3 input[type="submit"]:hover,
