@@ -3355,6 +3355,7 @@ body {
 
 				.wrapper.style3 table tbody tr:nth-child(2n + 1) {
 					background-color: rgba(255, 255, 255, 0.075);
+					font-size: 12px;
 				}
 
 			.wrapper.style3 table th {
