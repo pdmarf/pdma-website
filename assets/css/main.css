@@ -2941,32 +2941,32 @@ body {
 				}
 		
 				.package-price  li:nth-child(1) {
-						background-color: hwb(190.83deg 19.45% 1.42%);
+						background-color: hwb(190.83deg 19.45% 1.42%)!important;
 						text-align: center;
 					}
 		
 					.package-price  li:nth-child(2) {
-						background-color: hwb(191deg 7.16% 3.1%);
+						background-color: hwb(191deg 7.16% 3.1%)!important;
 						text-align: center;
 					}
 		
 					.package-price  li:nth-child(3) {
-						background-color: hwb(191 7% 15%);;
+						background-color: hwb(191 7% 15%)!important;
 						text-align: center;
 					}
 		
 					.package-price  li:nth-child(4) {
-						background-color: hwb(191deg 0% 25.21%);
+						background-color: hwb(191deg 0% 25.21%)!important;
 						text-align: center;
 					}
 		
 					.package-price  li:nth-child(5) {
-						background-color: rgba(0, 0, 0, 0.175);
+						background-color: rgba(0, 0, 0, 0.175)!important;
 						text-align: center;
 					}
 		
 					.package-price  li:nth-child(6) {
-						background-color: rgba(0, 0, 0, 0.21);
+						background-color: rgba(0, 0, 0, 0.21)!important;
 						text-align: center;
 					}
 		
