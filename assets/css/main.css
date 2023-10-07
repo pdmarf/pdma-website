@@ -3256,6 +3256,7 @@ body {
 
 			.wrapper.style1 header.major p {
 				color: #228ea6!important;
+				padding: 0 1em 0 1em;
 			}
 
 			.wrapper.style1 label {
