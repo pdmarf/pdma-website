@@ -3017,7 +3017,7 @@ body {
 					@media screen and (max-width: 980px) {
 		
 						.package-price  li {
-							padding: 3em 2em 1em 2em ;
+							padding: 1em 2em 1em 2em ;
 							text-align: center;
 						}
 		
@@ -3033,7 +3033,7 @@ body {
 					@media screen and (max-width: 736px) {
 		
 						.package-price  li {
-							padding: 3em 0 1em 0 ;
+							padding: 1em 0 1em 0 ;
 							background-color: transparent !important;
 							border-top: solid 2px #fff;
 							width: 100%;
