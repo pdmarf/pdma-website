@@ -2871,6 +2871,7 @@ body {
 
 			.features li:nth-child(2) {
 				border-top-right-radius: 3px;
+				text-align: center;
 				
 			}
 
