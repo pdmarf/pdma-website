@@ -2881,6 +2881,7 @@ body {
 
 			.features li:nth-last-child(2) {
 				border-bottom-left-radius: 3px;
+				text-align: center;
 			}
 
 			@media screen and (max-width: 980px) {
