@@ -3981,6 +3981,7 @@ body {
 /* Banner */
 
 	#banner {
+		background-image: -webkit-linear-gradient(top, #0b202d, #59e1ff), url(../../images/banner.jpg);
 		display: -moz-flex;
 		display: -webkit-flex;
 		display: -ms-flex;
