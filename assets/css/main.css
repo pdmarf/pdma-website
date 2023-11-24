@@ -2786,9 +2786,10 @@ body {
 
 		}
 
-/* Features */
 
-	.features {
+/* Features & Support Package */
+
+	.features, .support-package {
 		display: -moz-flex;
 		display: -webkit-flex;
 		display: -ms-flex;
@@ -2813,17 +2814,34 @@ body {
 			text-align: left;
 			width: 50%;
 		}
+		.support-package li {
+			padding: 2em 0em 2em 0em;
+			display: block;
+			position: relative;
+			text-align: center;
+			width: 100%;
+		}
+
 
 			.features li:nth-child(1) {
 				background-color: rgba(0, 0, 0, 0.035);
+			}
+			.support-package li:nth-child(1) {
+				background-color: rgb(57 169 202 / 32%);
 			}
 
 			.features li:nth-child(2) {
 				background-color: rgba(0, 0, 0, 0.07);
 			}
+			.support-package li:nth-child(2) {
+				background-color: rgb(41 132 159);
+			}
 
 			.features li:nth-child(3) {
 				background-color: rgba(0, 0, 0, 0.105);
+			}
+			.support-package li:nth-child(3) {
+				background-color: rgb(71 157 183);
 			}
 
 			.features li:nth-child(4) {
