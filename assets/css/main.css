@@ -2792,8 +2792,8 @@ body {
 a.supportplus, a.expensplus, {
     display: block;
     position: relative;
-    top: -250px;
-    visibility: hidden;
+    top: -350px;
+    
 }
 
 	.features, .support-package {
