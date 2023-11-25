@@ -2789,6 +2789,13 @@ body {
 
 /* Features & Support Package */
 
+a.supportplus, a.expensplus, {
+    display: block;
+    position: relative;
+    top: -250px;
+    visibility: hidden;
+}
+
 	.features, .support-package {
 		display: -moz-flex;
 		display: -webkit-flex;
