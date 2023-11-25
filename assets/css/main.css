@@ -2789,7 +2789,7 @@ body {
 
 /* Features & Support Package */
 
-a.supportplus, a.expensplus, {
+a.supportplus{
     display: block;
     position: relative;
     top: -350px;
