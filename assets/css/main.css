@@ -8,6 +8,9 @@
 */
 /*site wide*/
 
+#migration {
+	padding-top: 20px;;
+}
 
 .flex-parent {
 	display: flex;
