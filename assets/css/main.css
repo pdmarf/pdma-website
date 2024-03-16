@@ -4497,7 +4497,7 @@ body {
 		color: var(--text-clr);
 	}
 	.test-card-body .ratings{
-		margin-top: 20px;
+		margin-top: 0px;
 	}
 	.test-card-body .ratings i{
 		font-size: 17px;
@@ -4554,7 +4554,7 @@ body {
 
 	button.owl-dot,button.owl-prev, button.owl-next {box-shadow:none!important}
 
-	.owl-theme .owl-nav.disabled+.owl-dots{margin-left: 25%;}
+	.owl-theme .owl-nav.disabled+.owl-dots{margin-left: 25%,;}
 
 	.owl-nav .owl-prev i:hover,
 	.owl-nav .owl-next i:hover{
