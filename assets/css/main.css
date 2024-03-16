@@ -4450,6 +4450,13 @@ body {
 	
 	}
 
+	.owl-theme .owl-dots,.owl-theme .owl-nav {
+		text-align: center;
+		-webkit-tap-highlight-color: transparent;
+		position: absolute;
+		top: -60px;
+	}
+
 	.testimonials-section{
 		width: 100%;
 		padding: 0px 8%;
