@@ -3,7 +3,7 @@
 $('.testimonials-container').owlCarousel({
     loop:true,
     autoplay:true,
-    autoplayTimeout:150000,
+    autoplayTimeout:12000,
     margin:10,
     nav:true,
     navText:["<i class='fa-solid fa-arrow-left'></i>",
