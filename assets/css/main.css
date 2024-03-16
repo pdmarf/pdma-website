@@ -3207,7 +3207,7 @@ body {
 /* Wrapper */
 
 	.wrapper {
-		padding: 4em 0 2em 0 ;
+		padding: 2em 0 2em 0 ;
 	}
 
 		.wrapper > .inner {
@@ -4554,7 +4554,7 @@ body {
 
 	button.owl-dot,button.owl-prev, button.owl-next {box-shadow:none!important}
 
-	.owl-theme .owl-nav.disabled+.owl-dots{margin-left: 25%,;}
+	.owl-theme .owl-nav.disabled+.owl-dots{margin-left: 25%;}
 
 	.owl-nav .owl-prev i:hover,
 	.owl-nav .owl-next i:hover{
