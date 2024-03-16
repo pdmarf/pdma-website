@@ -4555,15 +4555,14 @@ body {
 	button.owl-dot,button.owl-prev, button.owl-next {box-shadow:none!important}
 
 	.owl-theme .owl-nav.disabled+.owl-dots{
-		position: fixed;
-  left: 0px;
-  right: 0px;
-  bottom: 8px;
-  width: 12rem;
-  max-width: calc(
-    100vw - 8px * 2
-  );
-  margin-inline: auto;
+				left: 0px;
+			right: 0px;
+			bottom: 8px;
+			width: 12rem;
+			max-width: calc(
+				100vw - 8px * 2
+			);
+			margin-inline: auto;
 	}
 
 	.owl-nav .owl-prev i:hover,
