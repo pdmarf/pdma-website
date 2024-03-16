@@ -4454,6 +4454,7 @@ body {
 	.testimonials-section{
 		width: 100%;
 		padding: 0px 8%;
+		background-color: #218ea6;
 	}
 	.testimonials-section .section-header{
 		max-width: 700px;
