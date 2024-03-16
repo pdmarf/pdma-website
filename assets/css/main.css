@@ -4549,6 +4549,9 @@ body {
 		cursor: pointer;
 		transition: 0.4s;
 	}
+	.button .owl-dot {box-shadow:none!important}
+
+
 	.owl-nav .owl-prev i:hover,
 	.owl-nav .owl-next i:hover{
 		background-color: var(--primary-clr) !important;
