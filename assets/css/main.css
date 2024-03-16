@@ -4549,7 +4549,8 @@ body {
 		cursor: pointer;
 		transition: 0.4s;
 	}
-	.button .owl-dot {box-shadow:none!important}
+
+	button.owl-dot {box-shadow:none!important}
 
 
 	.owl-nav .owl-prev i:hover,
