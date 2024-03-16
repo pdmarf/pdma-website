@@ -4554,7 +4554,18 @@ body {
 
 	button.owl-dot,button.owl-prev, button.owl-next {box-shadow:none!important}
 
-	.owl-theme .owl-nav.disabled+.owl-dots{margin-left: 25%;}
+	.owl-theme .owl-nav.disabled+.owl-dots{
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		position: fixed;
+		inset: 0px;
+		width: 12rem;
+		height: 5rem;
+		max-width: 100vw;
+		max-height: 100dvh;
+		margin: 140px auto;
+	}
 
 	.owl-nav .owl-prev i:hover,
 	.owl-nav .owl-next i:hover{
