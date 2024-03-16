@@ -4550,7 +4550,7 @@ body {
 		transition: 0.4s;
 	}
 
-	button.owl-dot,button.owl-prev {box-shadow:none!important}
+	button.owl-dot,button.owl-prev, button.owl-next {box-shadow:none!important}
 
 
 	.owl-nav .owl-prev i:hover,
