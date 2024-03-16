@@ -4554,6 +4554,7 @@ body {
 
 	button.owl-dot,button.owl-prev, button.owl-next {box-shadow:none!important}
 
+	.owl-theme .owl-nav.disabled+.owl-dots{margin-left: 25%;}
 
 	.owl-nav .owl-prev i:hover,
 	.owl-nav .owl-next i:hover{
