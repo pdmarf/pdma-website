@@ -1,3 +1,3 @@
 <?php
-header("Location: mailto:pete@pdmarfleet.co.uk"); 
+header("Location: mailto:pete@pdmarfleet.co.uk"); exit();
 ?>
