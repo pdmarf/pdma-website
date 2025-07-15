@@ -3621,7 +3621,7 @@ body {
 			.wrapper.style5 input[type="email"],
 			.wrapper.style5 select,
 			.wrapper.style5 textarea {
-				background-color: rgba(0, 0, 0, 0.0375);
+				background-color: rgb(216 219 220);
 			}
 
 			.wrapper.style5 select {
