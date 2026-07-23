@@ -4540,6 +4540,12 @@ body {
 	}
 	.owl-nav button{
 		border-radius: 50% !important;
+		height: auto;
+		max-width: none;
+		padding: 0;
+	}
+	.owl-nav button:hover{
+		background-color: transparent !important;
 	}
 	.owl-nav .owl-prev i,
 	.owl-nav .owl-next i{
