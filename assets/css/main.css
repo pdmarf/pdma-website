@@ -3621,7 +3621,7 @@ body {
 			.wrapper.style5 input[type="email"],
 			.wrapper.style5 select,
 			.wrapper.style5 textarea {
-				background-color: rgba(0, 0, 0, 0.0375);
+				background-color: rgb(216 219 220);
 			}
 
 			.wrapper.style5 select {
@@ -4540,6 +4540,12 @@ body {
 	}
 	.owl-nav button{
 		border-radius: 50% !important;
+		height: auto;
+		max-width: none;
+		padding: 0;
+	}
+	.owl-nav button:hover{
+		background-color: transparent !important;
 	}
 	.owl-nav .owl-prev i,
 	.owl-nav .owl-next i{
