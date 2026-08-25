@@ -2783,6 +2783,29 @@ body {
 
 		}
 
+		/* Small screens: allow long button labels to wrap instead of running off
+		   the side of the page. The base .button rule above combines
+		   white-space: nowrap with a fixed height and wide horizontal padding,
+		   so a long label makes the button grow past the screen edge rather than
+		   adapt to it. Below 480px, allow wrapping, let the height follow the
+		   content, and tighten the horizontal padding. */
+		@media screen and (max-width: 480px) {
+
+			input[type="submit"],
+			input[type="reset"],
+			input[type="button"],
+			button,
+			.button {
+				white-space: normal;
+				height: auto;
+				min-height: 3.75em;
+				line-height: 1.5;
+				padding: 1em 1.25em;
+				max-width: 100%;
+			}
+
+		}
+
 
 /* Features & Support Package */
 
